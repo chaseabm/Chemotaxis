@@ -1,7 +1,7 @@
 Bacteria [] colony;
 void setup()
 {
-  size(400, 400);
+  size(500, 500);
   background(255);
   noCursor();
   //initializing array
